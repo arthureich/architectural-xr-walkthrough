@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbf200ef16e9f5a4cb431e9292f9242f
+timeCreated: 1508290470
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81759
+  packageName: MS Advanced Camera Controller
+  packageVersion: 2.9.8
+  assetPath: Assets/Marcos Schultz/MSAdvancedCameraController/Materials/Metal1.mat
+  uploadId: 381139

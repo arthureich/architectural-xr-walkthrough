@@ -1,0 +1,29 @@
+﻿# Keep the canonical Unity project in CG2; ignore older root-level duplicate project folders.
+/Assets/
+/Packages/
+/ProjectSettings/
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+/.vscode/
+/Trabalho2CG.sln
+
+# Unity generated folders inside canonical project
+CG2/[Ll]ibrary/
+CG2/[Tt]emp/
+CG2/[Oo]bj/
+CG2/[Bb]uild/
+CG2/[Bb]uilds/
+CG2/[Ll]ogs/
+CG2/[Uu]ser[Ss]ettings/
+CG2/.vs/
+CG2/.utmp/
+CG2/.vscode/
+CG2/*.csproj
+CG2/*.sln
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/

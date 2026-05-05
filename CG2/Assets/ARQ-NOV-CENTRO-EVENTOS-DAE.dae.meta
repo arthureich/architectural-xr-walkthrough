@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: e857be47c340a39459b8435284371240
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A prova de umidade
+    second: {fileID: 2100000, guid: 2a33df0d613fb5e448f6947cc3dc6914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AISI 304 stainless steel_Mediclinics_Satin
+    second: {fileID: 2100000, guid: 9d93c4890baec8e42987d8055a5aec87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acetal Resin, Black
+    second: {fileID: 2100000, guid: e714b9c001c19f24d9ec7b9515f73504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium anodized black
+    second: {fileID: 2100000, guid: 126177308ca90564dbb199a160b2624a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Alum\xEDnio"
+    second: {fileID: 2100000, guid: bdbc8ead931272843baec98f9bedb38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Alum\xEDnio 04, Escovado"
+    second: {fileID: 2100000, guid: 216ad1afc93a2474781589e9c1d443ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Alum\xEDnio Liga 6060-T5_6063-T5"
+    second: {fileID: 2100000, guid: b95db81e47132d8488a400c836271d34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asfalto, Betume
+    second: {fileID: 2100000, guid: 2cbb8cfa045cb6c49b55a9e9513929c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ash
+    second: {fileID: 2100000, guid: 03f6b8cfa6c215e458bf65163b6ad168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Azul, S\xF3lido"
+    second: {fileID: 2100000, guid: c95da15ec1d455646a33e93f9dd1deef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "A\xE7o Carbono Pintura Eletrost\xE1tica Preta"
+    second: {fileID: 2100000, guid: 1c30955934755514694200a08844ee5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "A\xE7o inoxid\xE1vel, polido"
+    second: {fileID: 2100000, guid: 00ffa3edea266df4bb41965bd5856609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bancada de Granito
+    second: {fileID: 2100000, guid: cfb4c847b7a17b4448aac168114fbe12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 2f9d648df46cbeb42af0254ec99bcaa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Floor Vase with Leaves - Black
+    second: {fileID: 2100000, guid: c748d038277424a46bafab01564d86de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Floor Vase with Leaves - Ground
+    second: {fileID: 2100000, guid: dc411aa8561f6a04aa475a0616d551e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Floor Vase with Leaves - Leaf
+    second: {fileID: 2100000, guid: 2f10bb812ef67ec4aaf4c42af12c543e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Metal - Inox - 203-203-203
+    second: {fileID: 2100000, guid: f3eb89b76289f9446a250929c700913e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Modern Floor Vase with Banana Leaf - Ground
+    second: {fileID: 2100000, guid: bfbe34db9d246cb4c9d76da2b9ef3533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Modern Floor Vase with Banana Leaf - Leaf
+    second: {fileID: 2100000, guid: 34af6c4ff2ba0fc4ca3c566eccc3fea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Modern Floor Vase with Banana Leaf - White
+    second: {fileID: 2100000, guid: ad9701d1fb3467943b6577cda950d124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Modern Floor Vase with Banana Leaf - Wood
+    second: {fileID: 2100000, guid: 770a45c3ba92d024a9cd69dcc53098b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Plastic - White - Glazed - 246-246-243
+    second: {fileID: 2100000, guid: b34071557c79aa940b06604b407d15e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blks - Porcelain - White - Glazed - 255-255-255
+    second: {fileID: 2100000, guid: 299245e4d5dad504f87084d99a9b7ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabo de Madeira
+    second: {fileID: 2100000, guid: 320682e09d851f34692ec40ae01a862d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camada de suporte de metal
+    second: {fileID: 2100000, guid: 65f6bc4697db9f741bba36c515634746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpete
+    second: {fileID: 2100000, guid: 1daa08a4040267847a5696d18c6b7f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramica wc cozinha
+    second: {fileID: 2100000, guid: 3db32aa4de2c824498bc375d590a3c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cerejeira
+    second: {fileID: 2100000, guid: fd75575517265b14783db6ecfe281cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 377128412b813e142b21253a09b56ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto, Moldado in loco
+    second: {fileID: 2100000, guid: c9d312df894e46e4b8705cdaa65c426c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper, Patina
+    second: {fileID: 2100000, guid: b572043110572bd4d9e4da9aece651d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Deca_A\xE7o Polido"
+    second: {fileID: 2100000, guid: cca69c1e4bce96d49b23d08996cc05ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deca_Branco
+    second: {fileID: 2100000, guid: a294b7f79c51de0498ab3a81e6bd2f35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deca_Cromado
+    second: {fileID: 2100000, guid: 21865c3a252f0974c86b4a3b0738d79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deca_Nylon_PVC
+    second: {fileID: 2100000, guid: 1bf852dc55ee37847ba4c157b0e40d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Deca_\xC9bano"
+    second: {fileID: 2100000, guid: 753bae154516ed841887cba95215f538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default material
+    second: {fileID: 2100000, guid: 30d407f1e3e4cba42a08dc725ea832b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Estofado Branco_
+    second: {fileID: 2100000, guid: d010470b93428da4dbc6af978592de3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Estrutura em A\xE7o Pintada de Branco"
+    second: {fileID: 2100000, guid: fe971b56a089a9f4fa11cfde3583b832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "FDE_A\xE7o Polido"
+    second: {fileID: 2100000, guid: 60f4442bd51e3d749876e8d1a21cdf0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "FDE_A\xE7oInox"
+    second: {fileID: 2100000, guid: 0f7c74fbe52f73b45abd421e26e4de9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FDE_PinturaPreta
+    second: {fileID: 2100000, guid: bfeed0307f04d7b419ef6c3ab51ae4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferro, fundido
+    second: {fileID: 2100000, guid: b389e76e0ade7034dbc36d4df203d688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granito Branco Dallas
+    second: {fileID: 2100000, guid: 1df092cd1639a704094f92da7d9d0900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grelha
+    second: {fileID: 2100000, guid: 20e02f52334cd2547ad7ce9e1a92fce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEWI - 40 Chrome
+    second: {fileID: 2100000, guid: 542f9ca4fd7c1f4478bef2654b197013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HEWI - 98 Signal white
+    second: {fileID: 2100000, guid: a2ea0cc3427e95e4eb12b1236253ef2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Janela branca
+    second: {fileID: 2100000, guid: 6294750eaf0b6d545811acef3184cfa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LETREIRO
+    second: {fileID: 2100000, guid: 593990a81beec2c44ba7e4cb523be5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laca Amarela
+    second: {fileID: 2100000, guid: 8840ff33dff5f464f8d2c0bcfd1a4a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Linen - Beige
+    second: {fileID: 2100000, guid: 2ac6f045c737e4c4e8166bff29f190c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo azul amanco
+    second: {fileID: 2100000, guid: 81bb8de00cde5bc428d422af00b1d407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MDF Porta
+    second: {fileID: 2100000, guid: af5b4283caa4e9b438d9f5eb562794b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL - Eletros 01
+    second: {fileID: 2100000, guid: 6aa18348c87a6bf489569db5fd633e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira Desenho
+    second: {fileID: 2100000, guid: fb8bf46bb94103b43998eba1271ecd0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira Esquadria
+    second: {fileID: 2100000, guid: 630b36499657b3143b09992f858ac457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material pr\xE9-definido de parede"
+    second: {fileID: 2100000, guid: 385c4364b9ce36a4fbd5845850f32783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Material pr\xE9-definido de piso"
+    second: {fileID: 2100000, guid: bbb5581ab0a0a684db5e34af92e3fe84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: ad7e72f71693af54eb145477e818f70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Metal - A\xE7o, Polido"
+    second: {fileID: 2100000, guid: c9c28c0295f482240a573e71a3342cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Paint Finish - Ivory, Glossy
+    second: {fileID: 2100000, guid: 9f03329ea7964ee43bf3e3c0c7890b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "PINTURA ACR\xCDLICO CORAL BRANCO NEVE"
+    second: {fileID: 2100000, guid: aa73d0d4882330348b28d9a817cea7c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Padr\xE3o Fechos"
+    second: {fileID: 2100000, guid: 7f749fde87bb6334bb17a5108c60f116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Sherwin Williams - Duration Home SW 7587 - ANTIQUE RED - Flat
+    second: {fileID: 2100000, guid: 368d5b3e3a725994fba073ef648b33e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura
+    second: {fileID: 2100000, guid: 1e8e00299e44e4644a4888da73c9c1ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintura Branca
+    second: {fileID: 2100000, guid: c38a29effc92f1e43b6bf0f2365949de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso Porcelanato Geral
+    second: {fileID: 2100000, guid: 38689bfe610f6f141875c74c51dca08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Placa de gesso de parede
+    second: {fileID: 2100000, guid: a8dd72255649498448e0668cb819cfcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Pl\xE1stico - Com brilho (Cinza)"
+    second: {fileID: 2100000, guid: 06b3f3dd686ffb2438ac5a8a43938594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelana Branca
+    second: {fileID: 2100000, guid: d20d4529c997ffc418be87536d7891d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porta - Puxador
+    second: {fileID: 2100000, guid: 37f463898eb3ca341b75f896abfa8059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roca - MINI - 00 White
+    second: {fileID: 2100000, guid: 8ac0a4bb7b4e9a546b66d9ce385a60cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roca - PUBLIC - 01 Polished
+    second: {fileID: 2100000, guid: 0e1de56fc4234354ba709d1e77d8ee2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roofing, EPDM Membrane
+    second: {fileID: 2100000, guid: d251ad5383338c1449e9844eea1b8410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Sinaliza\xE7\xE3o Azul"
+    second: {fileID: 2100000, guid: d24c8dd5c4c5adb4db55257e1c3e1906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Sinaliza\xE7\xE3o Branco"
+    second: {fileID: 2100000, guid: 2ccc37722ac85dc4e81f31fd4550e772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Mediclinics_White epoxy
+    second: {fileID: 2100000, guid: dbaff05fc31a2204c9a6e302631b0cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TELA
+    second: {fileID: 2100000, guid: ad012812219226a48b62c6cd6434311e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIA RAL 1001
+    second: {fileID: 2100000, guid: 4050f4a0f14c6c243990ddeed04d678e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tecido Cinza
+    second: {fileID: 2100000, guid: c93f8e935f67a0a4184bbed22946ab21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tela LCD
+    second: {fileID: 2100000, guid: 3691b0a30cb6bc04abc6fc0c622ad1c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Telhado padr\xE3o"
+    second: {fileID: 2100000, guid: 794bec6d5e7cdd849844235a3345c1f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Tijolo maci\xE7o churrasqueira"
+    second: {fileID: 2100000, guid: 27520d4a99735364dbcbeaa5508ff86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transparent
+    second: {fileID: 2100000, guid: ec1432e66b95667428cf2a12b95022e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UHMW, branco
+    second: {fileID: 2100000, guid: e76637534a99efb4fa4b5b3a95b79e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - AVENTURINA PRETA
+    second: {fileID: 2100000, guid: 572ff58b593780840973f3f9b37462db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - AZUL ROYAL
+    second: {fileID: 2100000, guid: d0c36079c66bd8c4b93f39ed3943dffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - BRANCO NEVE
+    second: {fileID: 2100000, guid: 01883cadc43c7ca4cab710aa025152e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - CINZA ELEFANTE
+    second: {fileID: 2100000, guid: ae6ac9e047c5cc647be05f7bb721119f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - FORRO MARROM
+    second: {fileID: 2100000, guid: 73e236ae1352eec4690de7a6046ec3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VITORINO - MADEIRA FACHADA
+    second: {fileID: 2100000, guid: 4408bbce98bae7143a7a2bc396b0ec45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro
+    second: {fileID: 2100000, guid: 0198cd526841d8648840eba59da92afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walnut
+    second: {fileID: 2100000, guid: 5ab973b6dc0d035429765792c5e2793e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood (Oak)
+    second: {fileID: 2100000, guid: 5866d00ca20b8ba4386b9a344fd4d4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_A\xC7O ESCOVADO"
+    second: {fileID: 2100000, guid: 7d3158ef8a4eb554ebac64619f291cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _GRAMA
+    second: {fileID: 2100000, guid: b5e73bb362e92bc4b99a21fdaa657580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _GRAMA 2
+    second: {fileID: 2100000, guid: 45778effaad05f64c8223000cfa84973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _PAVER
+    second: {fileID: 2100000, guid: 070de3d6502d32b4ca6e0e2a164be337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _PINTURA BRANCA
+    second: {fileID: 2100000, guid: b181d472629cd1a4b8dde639f2d9d9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _VIDRO
+    second: {fileID: 2100000, guid: 2852a0e9f2d4e3e4493c1bbb7d425e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_Vitrine_Alum\xEDnio_Prata"
+    second: {fileID: 2100000, guid: cd0839f694cbe104eaa868499d047b16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Vitrine_Vidro_Transparente
+    second: {fileID: 2100000, guid: 2f9730e0e403b914c90c7dca014ecec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "_alum\xEDnio cinza chumbo_growarq"
+    second: {fileID: 2100000, guid: 3d4ac9b87a0c6674fb2f07c3a1e195b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _concreto contrapiso_growarq
+    second: {fileID: 2100000, guid: a8b57859dc7691b45bb02e2ce8fb9a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granito-bancadas-revitmodels
+    second: {fileID: 2100000, guid: 0a11923019ed7e542bd9b7405a1ff727, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
